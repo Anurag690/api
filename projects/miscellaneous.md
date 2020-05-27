@@ -1,5 +1,10 @@
 # Other Trackers/Dashboards using this API
 
+- [R0 Tracker India](https://www.nidhigupta.live/rtcovid)
+    - By: [@NidhiGupta](https://twitter.com/Nidhi1154?s=20) [@AnuragGupta ](https://github.com/Anurag690)
+
+---
+
 - [Tracker](https://covidstat.info/)
     - By: [@skavinvarnan ](https://github.com/skavinvarnan)
 
